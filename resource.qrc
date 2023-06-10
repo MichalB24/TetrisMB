@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pliki/klocki.png</file>
+        <file>pliki/plansza.png</file>
+        <file>pliki/Korobienki.wav</file>
+    </qresource>
+</RCC>
